@@ -1,5 +1,4 @@
 const readline = require('readline');
-const assert = require("assert");
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
